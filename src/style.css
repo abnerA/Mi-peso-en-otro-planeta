@@ -1,0 +1,21 @@
+body {
+  width: 100%;
+  background-image: url(../img/universe.jpg);
+  background-repeat: none;
+  background-size: cover;
+}
+
+.container {
+  display: grid;
+  width: 90%;
+  position: relative;
+  margin: auto;
+  grid-template-areas:
+    "header"
+    "main"
+    "footer";
+ grid-template-columns: 100%;
+ grid-template-rows: 100px 500px 100px;
+  color: white;
+}
+
