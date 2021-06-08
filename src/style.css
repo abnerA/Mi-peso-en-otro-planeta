@@ -1,6 +1,6 @@
 body {
   width: 100%;
-  background-image: url('https://pixabay.com/get/gfb098535ad480553c6d397548a61bcb9142eaa0cb71652acbd5d6ed2a152bc7b0591c9b1aa4175bdc9d5a3dd94a49d76_1920.jpg');
+  background-image: url(../img/universe.jpg);
   background-repeat: none;
   background-size: cover;
 }
